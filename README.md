@@ -82,7 +82,7 @@ sodexo.clustering.numCluster | The number of cluster used if the model is retain
 
 ## Installation and running
 ### Package location
-  You can find the package here : 
+  You can find the package [here](https://www.dropbox.com/s/fmpqb6umkpr55pj/city-bike-clustering-1.0-SNAPSHOT.zip?dl=0) 
   
 ### Installation  
 * 1 - Deploy the package in the platform (file system) where we need to run the application. For example if in hadoop deploy to hdfs
