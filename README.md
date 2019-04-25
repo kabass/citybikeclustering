@@ -23,7 +23,8 @@ As a bicylce station manager, I need to have a clustering view of a set of stati
    * **Task 2-4** Configuration loader implementation => done 
    * **Task 2-5** Project packaging configuration => done 
    * **Task 2-6** Automatic Integration test implementation => to do
-   * **Task 2-7** Job schedulong configuration (with oozie or crontab) => to do
+   * **Task 2-7** Performance test and tuning => to do
+   * **Task 2-8** Job schedulong configuration (with oozie or crontab) => to do
     
  
  * **Task 3** : QA test 
